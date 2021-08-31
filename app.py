@@ -1,3 +1,6 @@
+### Download
+# (sudo apt install sagemath)
+
 import json
 from os import urandom
 
